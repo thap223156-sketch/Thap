@@ -1,2 +1,1 @@
-# Thap
-Gioi thieu: Toi la <Thap>, MSSV <223156>.
+Đây là README từ nhánh conflict-demo.
